@@ -38,7 +38,6 @@ At this point we can check already if the project runs:
 
 and we check the browser at localhost:8000
 
-Reference-style: 
 ![django installation][django1]
 
 [django1]: https://github.com/gotche/django-couch/raw/master/images/django1.png "django installation succeeded"
